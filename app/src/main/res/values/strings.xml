@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Settings</string>
+    <string name="alerts">Alerts</string>
+    <string name="general">General</string>
+    <string name="notifi">Notification</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="battery_saver">Battery saver</string>
+    <string name="auto_play">Auto play</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="wifi_only">Wifi_only</string>
+    <string name="automatic">Automatic(based on wallpaper)</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="display">Display</string>
+    <string name="brightness_level">Brightness Level</string>
+    <string name="value_percentage">Value percentage</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="change_wallpaper">Change wallpaper</string>
+    <string name="device_theme">Device theme</string>
+
+
+
+
+
+</resources>
